@@ -1,0 +1,9 @@
+.movies {
+    background: #e9dede;
+}
+
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
